@@ -1,0 +1,5 @@
+/home/alex/Projects/PrefixPostfixDifference/PrefixPostfixDifference/bin/Debug/PrefixPostfixDifference.exe
+/home/alex/Projects/PrefixPostfixDifference/PrefixPostfixDifference/bin/Debug/PrefixPostfixDifference.pdb
+/home/alex/Projects/PrefixPostfixDifference/PrefixPostfixDifference/obj/x86/Debug/PrefixPostfixDifference.csprojAssemblyReference.cache
+/home/alex/Projects/PrefixPostfixDifference/PrefixPostfixDifference/obj/x86/Debug/PrefixPostfixDifference.exe
+/home/alex/Projects/PrefixPostfixDifference/PrefixPostfixDifference/obj/x86/Debug/PrefixPostfixDifference.pdb
